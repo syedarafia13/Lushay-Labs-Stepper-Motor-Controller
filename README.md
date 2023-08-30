@@ -33,6 +33,6 @@ To use the Stepper Motor Controller design:
 6. Connect the stepper motor to the appropriate output pins of the FPGA.
 7. Power up the FPGA and test the Stepper Motor Controller.
 
-## Contributors
+## Contributor
 
 - Syeda Rafia Fizza Naveed
