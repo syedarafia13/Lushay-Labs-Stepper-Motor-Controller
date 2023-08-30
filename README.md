@@ -18,6 +18,7 @@ The testbench module test is provided to verify the functionality of the Stepper
 ## Circuit Diagram
 ![image1](https://github.com/syedarafia13/Lushay-Labs-Stepper-Motor-Controller/assets/81455748/f3e45a42-564a-4f8c-b38e-fa2557cba4b1)
 
+![image2](https://github.com/syedarafia13/Lushay-Labs-Stepper-Motor-Controller/assets/81455748/f11ff8c0-532a-415f-89ff-c637d7212594)
 
 ## Simulation
 ![simulation](https://github.com/syedarafia13/Lushay-Labs-Stepper-Motor-Controller/assets/81455748/ccfb6a03-dbc3-4cbb-a382-b916212b9e7d)
