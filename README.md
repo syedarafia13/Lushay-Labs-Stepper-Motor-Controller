@@ -13,7 +13,7 @@ The top-level module top implements the Stepper Motor Controller. It takes input
 The testbench module test is provided to verify the functionality of the Stepper Motor Controller. It instantiates the top-level module top and provides stimulus to the inputs (clk, btn_start_stop, btn_direction_control, btn_speed) to simulate different scenarios.
 
 ## User Guide Manuals
-
+-[User Manual - Installation and Setup](https://docs.google.com/document/d/1TX2oJPWYm67gMV9igFQdw7Wp_Rzij6VKOEPoPlz9OsE/edit?usp=sharing)
 
 ## Circuit Diagram
 ![image1](https://github.com/syedarafia13/Lushay-Labs-Stepper-Motor-Controller/assets/81455748/f3e45a42-564a-4f8c-b38e-fa2557cba4b1)
