@@ -90,7 +90,7 @@ end
          end
     end
 
-    assign in1 = motor_out[0];              // Assign motor output 4
+    assign in1 = motor_out[0];              // Assign motor output 1
     assign in2 = motor_out[1];              // Assign motor output 2
     assign in3 = motor_out[2];              // Assign motor output 3
     assign in4 = motor_out[3];              // Assign motor output 4
