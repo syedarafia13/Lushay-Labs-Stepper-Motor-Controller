@@ -1,7 +1,7 @@
 //////////////////////////////////////////////////////////////////////////////////
 // Company:  MicroElectronics Research Lab
 // Author: Syeda Rafia Fizza Naveed
-// 
+//
 // Create Date:    17:20:18 30/08/2023
 // Module Name:    Stepper Motor Controller (Testbench)
 // Project Name:   Stepper Controller
@@ -22,8 +22,8 @@ module test;
     wire led1;
     wire led2;
     wire led3;
-    
-    //Instantiate the Top Module 
+   
+    //Instantiate the Top Module
     top top_i (
         .clk(clk),
         .btn_start_stop(btn_start_stop),
@@ -64,7 +64,19 @@ module test;
         btn_direction_control = 1;
         btn_speed = 1;
         #1000000;
-        
+
+        // Set speed button to 1
+        btn_start_stop = 0;
+        btn_direction_control = 1;
+        btn_speed = 1;
+        #1000000;
+
+        // Set speed button to 1
+        btn_start_stop = 1;
+        btn_direction_control = 1;
+        btn_speed = 1;
+        #1000000;
+       
         $finish;
     end
 
